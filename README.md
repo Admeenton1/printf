@@ -1,1 +1,1 @@
-my readme file
+Our first group project
